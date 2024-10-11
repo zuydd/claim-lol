@@ -4,7 +4,7 @@ import * as ethers from "ethers";
 // Tổng số lần chạy
 const COUNT = 200;
 // Số BNB chuyển qua để claim + chuyển token về ví vệ tinh
-const AMOUNT_SEND = "0.000001";
+const AMOUNT_SEND = "0.00000105";
 // Private key của ví vệ tinh (ví chứa BNB mạng Matchain để chia gas cho các ví)
 const PRIVATE_KEY = "XXX";
 // Địa chỉ (mạng Matchain) của ví vệ tinh hoặc bất kỳ ví nào bạn muốn gom token về

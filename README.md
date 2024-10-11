@@ -21,8 +21,8 @@
 ## 💾 Dữ liệu cần chỉnh sửa để chạy tool
 
 - Tổng số lần chạy: tìm biến `COUNT = 200` đổi thành số thích hợp
-- Số BNB chuyển qua để claim + chuyển token về ví vệ tinh: tìm biến `AMOUNT_SEND = "0.000001"` đổi thành số phù hợp, thường giao động từ 0.0000001 đến 0.0000001 tuỳ thời giá
-- Private key của ví vệ tinh (ví chứa BNB mạng Matchain để chia gas cho các ví): tìm biến `PRIVATE_KEY = "XXX"` đổi XXX thành private key của bạn
+- Số BNB chuyển qua để claim + chuyển token về ví vệ tinh: tìm biến `AMOUNT_SEND = "0.000001"` đổi thành số phù hợp, thường giao động từ 0.0000001 đến 0.0000011 tuỳ thời giá
+- Private key (không phải cụm từ hạt giống 12/24 ký tự) của ví vệ tinh (ví chứa BNB mạng Matchain để chia gas cho các ví): tìm biến `PRIVATE_KEY = "XXX"` đổi XXX thành private key của bạn
 - Địa chỉ (mạng Matchain) của ví vệ tinh hoặc bất kỳ ví nào bạn muốn gom token về: tìm biến `PARENT_WALLET_ADDRESS = "YYY"` đổi YYY thành địa chỉ ví của bạn
 
 ## >\_ Các lệnh và chức năng tương ứng
