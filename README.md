@@ -12,6 +12,7 @@
 
 > [!CAUTION]
 > Hiện tại không thể claim láo số lượng lớn bằng tool được nữa do phải xác thực qua mini app. Tóm lại tool hết dùng được rồi
+
 > Currently, it is no longer possible to falsely claim large amounts using the tool because it must be authenticated through the mini app. In short, the tool is no longer usable
 
 ## 🛠️ Hướng dẫn cài đặt
